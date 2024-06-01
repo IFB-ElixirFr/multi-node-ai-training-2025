@@ -1,4 +1,3 @@
-mkdocs
 setuptools
 mkdocs-material
 mkdocs-bibtex
