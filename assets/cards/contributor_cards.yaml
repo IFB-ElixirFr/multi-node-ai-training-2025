@@ -1,0 +1,54 @@
+- title: Olivier Sand
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Institut Francais de Bioinformatique, France
+  image: ./assets/images/cards/001-zeus.png
+
+- title: Fotis Psomopoulos
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/003-athena.png
+
+- title: Wandrille Duchemin
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/007-poseidon.png
+
+- title: Thuong Van Du Tran
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/007-poseidon.png
+
+- title: Robbin Bouwmeester
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/007-poseidon.png
+
+- title: Tine Claeys
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/007-poseidon.png
+
+- title: Ralf Gabriels
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/007-poseidon.png
+
+- title: Lucie Khamvongsa-Charbonier
+  content: |
+    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
+    Institut Francais de Bioinformatique, France
+  image: ./assets/images/cards/007-poseidon.png
+
+- title: Bérénice Batut
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0001-9852-1987) [:simple-github:](https://github.com/bebatut)<br>
+    Institut Francais de Bioinformatique, France &
+    AuBi, Mésocentre Clermont Auvergne, Université Clermont Auvergne, France
+  image: ./assets/images/cards/003-athena.png
